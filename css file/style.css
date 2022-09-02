@@ -366,9 +366,7 @@ background-color: purple;
 .contact-wrapper a:hover{
     text-decoration: underline;
 }
-.form-control{
-    color: white !important
-}
+
 .s-icon{
     margin: 3px;
     padding: 5px;
@@ -392,9 +390,8 @@ border:1px solid white !important
 
 
 }
-.contact-wrapper::placeholder{
-    color: white !important
-}
+
+
 
 
 /* contact section ends here  */
@@ -402,7 +399,7 @@ border:1px solid white !important
 /* footer section start here  */
 .footer-section{
     padding: 5px;
-    background-color:white ;
+    background-color:white;
     color: #000000;
 }
 

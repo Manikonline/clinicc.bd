@@ -8,6 +8,7 @@
 }
 .about-wrappers .about-animate{
     left:5px;
+    
 }
 
 
@@ -45,6 +46,8 @@
     .card{
         padding: 1.875rem 1rem;
     }
+
+   
 }
 
 @media(max-width:767px){
@@ -66,7 +69,7 @@
     
 }
 
-}
+
 
 
 @media(max-width:360px){
